@@ -13,8 +13,8 @@ export default class Game3 extends Phaser.Scene {
 
   preload() {
     this.load.image("jugador", "public/assets/secuestrador3.png");
-    this.load.image("persona", "public/assets/Sin Título1.png");
-    this.load.image("casa", "public/assets/Sin Título1.png");
+    this.load.image("persona", "public/assets/tulo1.png");
+    this.load.image("casa", "public/assets/tulo1.png");
     this.load.image("fondo", "public/assets/fondo.png");
     this.load.image("corazon", "public/assets/corazon.png");
     this.load.image("casa1", "public/assets/casahorrible1.png");
